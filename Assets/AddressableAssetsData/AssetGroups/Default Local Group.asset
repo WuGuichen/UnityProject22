@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4eefd72859213ad41beae06ca34223ae
+  m_SerializeEntries:
+  - m_GUID: 1d29af42a3566034486629ae62fa55ca
+    m_Address: BaseUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16e1ee3e0a1077942b45237b14d07137
+    m_Address: HeroInfoUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe649fa7d675d074781f7f006fb3b235
+    m_Address: JoystickPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1047d5fbfd8f273488f2dc15f09e19b2
+    m_Address: MainMenuUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1971d93d8fca714a8022701f13e5343
+    m_Address: Enemy_Slime
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Enemys
+  - m_GUID: f52cf784d9936654f819003f65e90c35
+    m_Address: Blood_Arterial_Large_Green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Others
+  - m_GUID: b0f9c676bfdcc7b4a8789f5806883baf
+    m_Address: Sorcerer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Players
+  - m_GUID: cebe0dc60b31a6f46b9e6add45fb3d27
+    m_Address: Witch
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Players
+  - m_GUID: e1e9cc8294023a84182ef3458acce204
+    m_Address: PlayerTest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Players
+  - m_GUID: 97cdd48f1dda0b54bb698854d9892408
+    m_Address: DamageText
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Others
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4cd42f0690dced0439ce2cf695f54458, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fc1ffbc310b17774d8860202b9b021a3, type: 2}
+    - {fileID: 11400000, guid: debf97cef389a594ea272eae7e31ab2a, type: 2}
