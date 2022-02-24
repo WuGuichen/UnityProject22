@@ -12,3 +12,5 @@
 5. 游戏资源管理
 6. 游戏属性和角色属性管理
 7. 等等
+
+![image](https://github.com/WuGuichen/UnityProject22/blob/main/ER%25OZ6W%5DD%7ET3ZDKRXVKH%5D%25L.png)
